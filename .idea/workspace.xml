@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b83c981a-cab0-487a-b12a-fe5109638dd0" name="Default" comment="Add Omar's codes">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/yusufhussein/A35.java" afterPath="$PROJECT_DIR$/src/main/java/yusufhussein/A35.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/yusufhussein/A390.java" afterPath="$PROJECT_DIR$/src/main/java/yusufhussein/A390.java" />
     </list>
     <ignored path="codeforces.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,13 +37,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="A35.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="A35.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/yusufhussein/A35.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="252">
+              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A390.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yusufhussein/A390.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+              <folding>
+                <element signature="e#302#311#0" expanded="true" />
+                <element signature="e#361#370#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,6 +100,7 @@
         <option value="$PROJECT_DIR$/src/main/java/yusufhussein/A393.java" />
         <option value="$PROJECT_DIR$/src/main/java/yusufhussein/A305.java" />
         <option value="$PROJECT_DIR$/src/main/java/yusufhussein/A35.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yusufhussein/A390.java" />
       </list>
     </option>
   </component>
@@ -907,10 +922,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/yusufhussein/A35.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="252">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yusufhussein/A390.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding>
+            <element signature="e#302#311#0" expanded="true" />
+            <element signature="e#361#370#0" expanded="true" />
           </folding>
         </state>
       </provider>
