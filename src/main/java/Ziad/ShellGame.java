@@ -1,3 +1,5 @@
+package Ziad;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
@@ -5,7 +7,7 @@ import java.io.UnsupportedEncodingException;
 import java.util.Scanner;
 
 
-public class Main {
+public class ShellGame {
 
 	public static void main(String[] args) {
 		try {

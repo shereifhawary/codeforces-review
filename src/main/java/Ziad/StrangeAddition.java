@@ -1,7 +1,9 @@
+package Ziad;
+
 import java.util.Scanner;
 
 
-public class Main {
+public class StrangeAddition {
 
 	public static void main(String[] args) {
 		
