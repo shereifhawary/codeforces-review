@@ -7,7 +7,7 @@ package com.orange.internship.yusufhussein;
  * A. On Segment's Own Points
  */
 import java.util.*;
-public class Main {
+public class A397 {
     public static void main(String [] args) {
         Scanner input = new Scanner(System.in);
         int n=input.nextInt();
