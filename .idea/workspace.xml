@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b83c981a-cab0-487a-b12a-fe5109638dd0" name="Default" comment="Add Omar's codes">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/yusufhussein/A393.java" afterPath="$PROJECT_DIR$/src/main/java/yusufhussein/A393.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/yusufhussein/A397.java" afterPath="$PROJECT_DIR$/src/main/java/yusufhussein/A397.java" />
     </list>
     <ignored path="codeforces.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,11 +61,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="A393.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="A393.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/yusufhussein/A393.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A397.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yusufhussein/A397.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-207">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -111,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/main/java/yusufhussein/A35.java" />
         <option value="$PROJECT_DIR$/src/main/java/yusufhussein/A390.java" />
         <option value="$PROJECT_DIR$/src/main/java/yusufhussein/A393.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yusufhussein/A397.java" />
       </list>
     </option>
   </component>
@@ -947,6 +957,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yusufhussein/A397.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           <folding />
         </state>
       </provider>
