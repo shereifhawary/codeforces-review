@@ -55,3 +55,4 @@ public class A18 {
         else System.out.println("NEITHER");
     }
 }
+
